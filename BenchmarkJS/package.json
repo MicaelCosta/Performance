@@ -1,0 +1,9 @@
+{
+  "name": "benchmarkjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
